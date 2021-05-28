@@ -1,8 +1,7 @@
 # Animate_libraries
 一个css样式，里面包含了可以直接引用的动画类。
->第一次在github上写博客，这是我找到的一个css开源项目animate，这里简单介绍一下这个包的用法。
+>第一次在github上写项目，这是我找到的一个css开源项目animate，这里简单介绍一下这个包的用法。
 
-[![GitHub Version](https://img.shields.io/github/release/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/releases) [![Github Star](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/stargazers) [![Github Fork](https://img.shields.io/github/forks/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/network/members) [![License](https://img.shields.io/github/license/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/blob/main/LICENSE)
 ## 查看效果预览可以打开：
 ```shell
 https://animate.style/
